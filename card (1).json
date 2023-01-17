@@ -1,0 +1,37 @@
+{
+"TY_WDICY_V": [
+    {
+    "name":"<:c_:1063129501699166208> **TAEYEON Vocal** What Do I Call You",
+    "idol":"TAEYEON Vocal",
+    "inv":"<:c_:1063129501699166208> What Do I Call You Vocal",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/v.png",
+    "theme": "What Do I Call You",
+    "minimum": "1800",
+    "maximum": "2400"
+    }
+
+    ],
+    "TY_WDICY_D": [
+       {
+    "name":"<:c_:1063129501699166208> **TAEYEON Dance** What Do I Call You",
+    "idol":"TAEYEON Dance",
+    "inv":"<:c_:1063129501699166208> What Do I Call You Dance",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/d.png",
+    "theme": "What Do I Call You",
+    "minimum": "1800",
+    "maximum": "2400"
+    }
+    ],
+
+     "TY_WDICY_R" [
+       {
+    "name":"<:c_:1063129501699166208> **TAEYEON Rhythm** What Do I Call You",
+    "idol":"TAEYEON Rhythm",
+    "inv":"<:c_:1063129501699166208> What Do I Call You Rhythm",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/r.png",
+    "theme": "What Do I Call You",
+    "minimum": "1800",
+    "maximum": "2400"
+       }
+    ]
+   }
